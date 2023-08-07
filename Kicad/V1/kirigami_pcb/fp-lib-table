@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "KiriPCB")(type "KiCad")(uri "${KIPRJMOD}/KiriPCB.pretty")(options "")(descr ""))
+)
