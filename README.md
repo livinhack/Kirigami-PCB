@@ -32,7 +32,7 @@ Mounted on the Kirigami bed mount, this breaks out the 10 pin harness into all n
 ![Alt text](Images/kirigami_pcb.png?raw=true "Title")
 
 
-## Toolhead PCB BOM
+## Kirigami PCB BOM
 | Part                        | Quantity V1 | Quantity V2 | Notes           | LCSC Part Number | Link                                                                                                               |
 | --------------------------- |     :-:     |     :-:     | --------------- | ---------------- |------------------------------------------------------------------------------------------------------------------- |
 | 10 Pin Socket (Right Angle) | 1           | 1           | MOLEX 430451000 | C122421          | [lcsc](https://www.lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_MOLEX-430451000_C122421.html)              |
