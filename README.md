@@ -31,8 +31,6 @@ Mounted on the Kirigami bed mount, this breaks out the 10 pin harness into all n
 
 ![Alt text](Images/kirigami_pcb.png?raw=true "Title")
 
-For the RGB lovers among us: [U.F.O.](https://github.com/livinhack/Kirigami_U.F.O)
-
 ## Kirigami PCB BOM
 | Part                        | Quantity V1 | Quantity V2 | Notes           | LCSC Part Number | Link                                                                                                               |
 | --------------------------- |     :-:     |     :-:     | --------------- | ---------------- |------------------------------------------------------------------------------------------------------------------- |
@@ -51,6 +49,8 @@ For the RGB lovers among us: [U.F.O.](https://github.com/livinhack/Kirigami_U.F.
 ## [Optional Bed Fan](https://github.com/livinhack/Kirigami_PCB/tree/main/Optional/Bed_Fan)
 
 ## [Optional Front](https://github.com/livinhack/Kirigami_PCB/tree/main/Optional/Front)
+
+## [For the RGB lovers among us: Kirigami U.F.O.](https://github.com/livinhack/Kirigami_U.F.O)
 
 ### If you have a Neopixel in your Kirigami front, please note the following:
 ![Alt text](/Images/pixelwire.png?raw=true "Title")
