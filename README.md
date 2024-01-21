@@ -92,7 +92,7 @@ Symbolic representation of the connection:
 
 ## V2+:
  - Link to U.F.O. variant
- - 
+
 ## V2:
  - Moved Screw Terminal postition on Frame PCB and rearranged positons of the connectors + changing heater to Screw Terminal on the Kirigami PCB
 
