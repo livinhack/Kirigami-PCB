@@ -28,10 +28,10 @@ The frame PCB mounts on the side in the electronics bay of the printer and combi
 # Kirigami PCB
 
 Mounted on the Kirigami bed mount, this breaks out the 10 pin harness into all needed connectors.
-For the RGB lovers among us: [U.F.O.](https://github.com/livinhack/Kirigami_U.F.O)
 
 ![Alt text](Images/kirigami_pcb.png?raw=true "Title")
 
+For the RGB lovers among us: [U.F.O.](https://github.com/livinhack/Kirigami_U.F.O)
 
 ## Kirigami PCB BOM
 | Part                        | Quantity V1 | Quantity V2 | Notes           | LCSC Part Number | Link                                                                                                               |
