@@ -28,6 +28,7 @@ The frame PCB mounts on the side in the electronics bay of the printer and combi
 # Kirigami PCB
 
 Mounted on the Kirigami bed mount, this breaks out the 10 pin harness into all needed connectors.
+For the RGB lovers among us: [U.F.O.](https://github.com/livinhack/Kirigami_U.F.O)
 
 ![Alt text](Images/kirigami_pcb.png?raw=true "Title")
 
@@ -88,6 +89,10 @@ Symbolic representation of the connection:
 
 # Change Log #
 
+
+## V2+:
+ - Link to U.F.O. variant
+ - 
 ## V2:
  - Moved Screw Terminal postition on Frame PCB and rearranged positons of the connectors + changing heater to Screw Terminal on the Kirigami PCB
 
