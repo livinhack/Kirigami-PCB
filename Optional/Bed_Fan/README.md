@@ -10,7 +10,7 @@
 | stop nut M3              | 4           |             |             |             |                                           |
 ### Note1:
 I use Option 2 myself because this variant is the slimmest. However, it must also be individually adjusted, since tolerances, the respective fan and the screws must fit together. it works best when the pin just fits into the hole on the fan (twist-proof) and the screw hole is not too narrow.
-THAT'S why I included the pin of the Option 2 as a single CAD file so that you can adjust it accordingly.
+THAT'S why I included the pin of the Option 2 as a CAD file so that you can adjust it accordingly.
 
 ### Note2:
 In the case of the UFO, Option 3 and 4 are omitted. These are intended for the original variant (non LED).
