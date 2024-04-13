@@ -81,8 +81,7 @@ Symbolic representation of the connection:
 ### Note: You don't need the chain-end spacer if your chain is "V0.1-spec"!
 | Part  | Part Number  | Link                                                                                |
 | ------| ------------ |------------------------------------------------------------------------------------ |
-| Chain | E04.07.015.0 | [fermio](https://www.fermio.shop/igus-gmbh/igus-e-chain-e04.07-15-chain-links-open/)          |
-|       |              | [igus](https://www.igus.eu/iPro/iPro_01_0009_0001_GBen.htm?ArtNr=E04.07.015.0&c=DE&l=en)    |
+| Chain | E04.07.015.0 | [igus](https://www.igus.eu/iPro/iPro_01_0009_0001_GBen.htm?ArtNr=E04.07.015.0&c=DE&l=en)    |
 |       |              | [lecktor](https://lecktor.com/en/v0-cables-connectors/716-igus-v02-chain-e04070150-00716.html) |
 
 -----
